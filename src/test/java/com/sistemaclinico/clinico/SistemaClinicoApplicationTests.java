@@ -1,10 +1,10 @@
-package com.hospital.hospital_web;
+package com.sistemaclinico.clinico;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HospitalWebApplicationTests {
+class SistemaClinicoApplicationTests {
 
 	@Test
 	void contextLoads() {

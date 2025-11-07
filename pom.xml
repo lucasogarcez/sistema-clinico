@@ -8,10 +8,10 @@
 		<version>3.5.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.hospital</groupId>
-	<artifactId>hospital-web</artifactId>
+	<groupId>com.sistemaclinico</groupId>
+	<artifactId>clinico</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hospital-web</name>
+	<name>clinico</name>
 	<description>Sistema de Gestão Hospitalar</description>
 	<url/>
 	<licenses>
