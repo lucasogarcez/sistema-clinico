@@ -1,8 +1,8 @@
 # 🏥 Sistema Clínico — Projeto de Programação Web II
 
-![Java](https://img.shields.io/badge/Java-17-red?logo=openjdk)
+![Java](https://img.shields.io/badge/Java-25-red?logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0-brightgreen?logo=springboot)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-blue?logo=postgresql)
 ![License](https://img.shields.io/badge/License-Acadêmico-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 
