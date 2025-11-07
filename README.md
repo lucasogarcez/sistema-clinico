@@ -1,7 +1,7 @@
 # 🏥 Sistema Clínico — Projeto de Programação Web II
 
-![Java](https://img.shields.io/badge/Java-25-red?logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0-brightgreen?logo=springboot)
+![Java](https://img.shields.io/badge/Java-21-red?logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.6-brightgreen?logo=springboot)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-blue?logo=postgresql)
 ![License](https://img.shields.io/badge/License-Acadêmico-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
@@ -10,15 +10,31 @@
 
 
 ## 📚 Sumário
-- [👩‍💻 Integrantes](#%E2%80%8D-integrantes)
-- [📖 Descrição do Projeto](#-descrição-do-projeto)
-- [🎯 Objetivos da Disciplina](#-objetivos-da-disciplina)
-- [⚙️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
-- [🧩 Etapas do Projeto](#-etapas-do-projeto)
-- [🧠 Modelagem (Diagrama de Classes)](#-modelagem-diagrama-de-classes)
-- [🧭 Estrutura Esperada do Projeto](#-estrutura-esperada-do-projeto)
-- [🚀 Como Executar o Projeto](#-como-executar-o-projeto)
-- [🧾 Licença](#-licença)
+- [🏥 Sistema Clínico — Projeto de Programação Web II](#-sistema-clínico--projeto-de-programação-web-ii)
+  - [📚 Sumário](#-sumário)
+  - [👩‍💻 Integrantes](#-integrantes)
+  - [📖 Descrição do Projeto](#-descrição-do-projeto)
+  - [🎯 Objetivos da Disciplina](#-objetivos-da-disciplina)
+  - [⚙️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
+  - [🧩 Etapas do Projeto](#-etapas-do-projeto)
+    - [**Etapa 1:**](#etapa-1)
+    - [**Etapa 2:**](#etapa-2)
+    - [**Etapa 3:**](#etapa-3)
+    - [**Etapa 4:**](#etapa-4)
+    - [**Etapa 5:**](#etapa-5)
+    - [**Etapa 6:**](#etapa-6)
+    - [**Etapa 7:**](#etapa-7)
+    - [**Etapa 8:**](#etapa-8)
+  - [🧠 Modelagem (Diagrama de Classes)](#-modelagem-diagrama-de-classes)
+    - [Entidades principais:](#entidades-principais)
+  - [🧭 Estrutura Esperada do Projeto](#-estrutura-esperada-do-projeto)
+  - [🚀 Como Executar o Projeto](#-como-executar-o-projeto)
+    - [1️⃣ **Clonar o repositório:**](#1️⃣-clonar-o-repositório)
+    - [2️⃣ **Entrar na pasta do projeto:**](#2️⃣-entrar-na-pasta-do-projeto)
+    - [3️⃣ **Configurar o banco de dados:**](#3️⃣-configurar-o-banco-de-dados)
+    - [4️⃣ **Executar o projeto:**](#4️⃣-executar-o-projeto)
+    - [5️⃣ **Acessar no navegador:**](#5️⃣-acessar-no-navegador)
+  - [🧾 Licença](#-licença)
 
 ---
 
